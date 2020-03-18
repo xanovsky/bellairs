@@ -1,0 +1,25 @@
+site_name: 'Title'
+site_url: ''
+repo_url: ''
+site_description: ''
+site_author: 'Author'
+
+theme:
+  name: 'material'
+  language: 'en'
+  feature:
+    tabs: 'true'
+    #  logo: 'assets/images/favicon.ico'
+    #  favicon: 'assets/images/favicon.ico'
+  palette:
+    primary: red
+    accent: red
+
+nav:
+  - Home:
+    - About: 'index.md'
+    - Page 1: 'pages/page1.md'
+    - Page 2: 'pages/page2.md'
+  - Another tab:
+    - Another page 1: 'another/page1.md'
+    - Another page 2: 'another/page2.md'

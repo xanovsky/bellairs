@@ -1,8 +1,8 @@
-site_name: 'Title'
+site_name: 'Bellairs Panangaden Workshops'
 site_url: ''
 repo_url: ''
 site_description: ''
-site_author: 'Author'
+site_author: 'Alexandra Silva'
 
 theme:
   name: 'material'
@@ -12,14 +12,19 @@ theme:
     #  logo: 'assets/images/favicon.ico'
     #  favicon: 'assets/images/favicon.ico'
   palette:
-    primary: red
-    accent: red
+    primary: blue
+    accent: blue
 
 nav:
   - Home:
     - About: 'index.md'
-    - Page 1: 'pages/page1.md'
-    - Page 2: 'pages/page2.md'
-  - Another tab:
-    - Another page 1: 'another/page1.md'
-    - Another page 2: 'another/page2.md'
+    - 2024: 'pages/2024.md'
+    - 2020: 'pages/2020.md'
+    - 2019: 'pages/2019.md'
+    - 2018: 'pages/2018.md'
+    - 2017: 'pages/2017.md'
+    - 2016: 'pages/2016.md'
+    - 2015: 'pages/2015.md'
+    - 2014: 'pages/2014.md'
+    - 2013-2003: 'pages/rest.md'
+    - General Info: 'pages/general.md'

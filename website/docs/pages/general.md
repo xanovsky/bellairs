@@ -8,7 +8,7 @@ The practice at these workshops has been to allow the speaker ample time to get 
 
 The airport is on the east-south point of the island and the McGill Bellairs Institute is on the west side in the Parish of St. James (about a 40 minute taxi drive).
 
-We organise taxi rides from the airpot according to the provide flight details. If however you find yourself having to take a taxi on your own, tell the taxi driver to take you to Bellairs Research Centre in Holetown. Holetown is small and Bellairs is on the main (only) street - it is just north of Folkstone Park. The taxi ride should cost about $35. 
+We organise taxi rides from the airport according to the provide flight details. If however you find yourself having to take a taxi on your own, tell the taxi driver to take you to Bellairs Research Centre in Holetown. Holetown is small and Bellairs is on the main (only) street - it is just north of Folkstone Park. The taxi ride should cost about $35. 
 
 Barbados is safe and one shouldn't worry about travelling alone during the day. US currency is freely accepted at 2 Barbadian dollars per US dollar. Other currencies (Pound sterling, Canadian dollars) are not accepted; you will have to change them at banks or at the airport.  People had trouble using their bank cards from Europe, but Canadian and US cards seem to work fine. At the airport if you go around to the departures side just after you arrive you will find cash machines that will work. In Holetown, there are cash machines at the gas station just south of first street and at the Royal Bank. 
 

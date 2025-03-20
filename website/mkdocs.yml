@@ -18,7 +18,10 @@ theme:
 nav:
   - Home:
     - About: 'index.md'
+    - 2025: 'pages/2025.md'
     - 2024: 'pages/2024.md'
+    - 2023: 'pages/2023.md'
+    - 2022: 'pages/2022.md'
     - 2020: 'pages/2020.md'
     - 2019: 'pages/2019.md'
     - 2018: 'pages/2018.md'

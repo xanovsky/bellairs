@@ -1,12 +1,14 @@
+PYTHON=python3 -m
+
 build:
-	mkdocs build
+	$(PYTHON) mkdocs build
 
 preview:
-	mkdocs serve
+	$(PYTHON) mkdocs serve
 
 install:
-	pip install mkdocs mkdocs-material pymdown-extensions
+	$(PYTHON) pip install mkdocs mkdocs-material pymdown-extensions
 
 deploy:
 	make build
-	mkdocs gh-deploy
+	$(PYTHON) mkdocs gh-deploy
